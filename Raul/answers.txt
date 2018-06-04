@@ -1,0 +1,14 @@
+1. git branch
+* 47_fixed-things
+  master
+
+all info can be seen: git branch --list --all
+
+2. git rev-list --all --count
+53
+
+3. git blame -L 10,10 index.html
+74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10) <body class="landing">
+
+4. git log | grep -5 865cbc8
+Added travis config file
