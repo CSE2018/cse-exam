@@ -9,16 +9,16 @@ While I nodded, nearly napping, suddenly there came a tapping,
 as of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
 ||||||| base
-as of some one gently rapping, rapping at my chamber _.
+as of some one gently rapping, rapping at my chamber door.
 ||||||| base
-as of some one gently rapping, rapping at my chamber _.
+as of some one gently rapping, rapping at my chamber door.
 =======
-As of some one gently rapping, rapping at my chamber _.
+As of some one gently rapping, rapping at my chamber door.
 >>>>>>> theirs
-“’Tis some visitor,” I muttered, “tapping at my chamber _—
+“’Tis some visitor,” I muttered, “tapping at my chamber door—
 =======
-As of some one gently rapping, rapping at my chamber _.
-“’Tis some visitor,” I muttered, “tapping at my chamber _—
+As of some one gently rapping, rapping at my chamber door.
+“’Tis some visitor,” I muttered, “tapping at my chamber door—
 >>>>>>> theirs
 Only this and nothing more.”
 
@@ -36,17 +36,17 @@ So that now, to still the beating of my heart, I stood repeating
 “’tis some visitor entreating entrance at my chamber door—
 some late visitor entreating entrance at my chamber door;—
 ||||||| base
-“’tis some visitor entreating entrance at my chamber _—
+“’tis some visitor entreating entrance at my chamber door—
 <<<<<<< ours
-some late visitor entreating entrance at my chamber _;—
+some late visitor entreating entrance at my chamber door;—
 =======
-“’tis some visitor entreating entrance at my chamber _—
-Some late visitor entreating entrance at my chamber _;—
+“’tis some visitor entreating entrance at my chamber door—
+Some late visitor entreating entrance at my chamber door;—
 >>>>>>> theirs
 ||||||| base
-some late visitor entreating entrance at my chamber _;—
+some late visitor entreating entrance at my chamber door;—
 =======
-Some late visitor entreating entrance at my chamber _;—
+Some late visitor entreating entrance at my chamber door;—
 >>>>>>> theirs
 This it is and nothing more.”
 
@@ -57,17 +57,17 @@ But the fact is I was napping, and so gently you came rapping,
 And so faintly you came tapping, tapping at my chamber door,
 that I scarce was sure I heard you”—here I opened wide the door;—
 ||||||| base
-And so faintly you came tapping, tapping at my chamber _,
+And so faintly you came tapping, tapping at my chamber door,
 <<<<<<< ours
-that I scarce was sure I heard you”—here I opened wide the _;—
+that I scarce was sure I heard you”—here I opened wide the door;—
 =======
-And so faintly you came tapping, tapping at my chamber _,
-That I scarce was sure I heard you”—here I opened wide the _;—
+And so faintly you came tapping, tapping at my chamber door,
+That I scarce was sure I heard you”—here I opened wide the door;—
 >>>>>>> theirs
 ||||||| base
-that I scarce was sure I heard you”—here I opened wide the _;—
+that I scarce was sure I heard you”—here I opened wide the door;—
 =======
-That I scarce was sure I heard you”—here I opened wide the _;—
+That I scarce was sure I heard you”—here I opened wide the door;—
 >>>>>>> theirs
 Darkness there and nothing more.
 
@@ -172,14 +172,14 @@ and my soul from out that shadow that lies floating on the floor
 shall be lifted—nevermore!
 ||||||| base
 and the Raven, never flitting, still is sitting, still is sitting
-on the pallid bust of Pallas just above my chamber _;
+on the pallid bust of Pallas just above my chamber door;
 and his eyes have all the seeming of a demon’s that is dreaming,
 and the lamp-light o’er him streaming throws his shadow on the floor;
 and my soul from out that shadow that lies floating on the floor
 shall be lifted—nevermore!
 =======
 And the Raven, never flitting, still is sitting, still is sitting
-On the pallid bust of Pallas just above my chamber _;
+On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon’s that is dreaming,
 And the lamp-light o’er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
@@ -187,14 +187,14 @@ Shall be lifted—nevermore!
 >>>>>>> theirs
 ||||||| base
 and the Raven, never flitting, still is sitting, still is sitting
-on the pallid bust of Pallas just above my chamber _;
+on the pallid bust of Pallas just above my chamber door;
 and his eyes have all the seeming of a demon’s that is dreaming,
 and the lamp-light o’er him streaming throws his shadow on the floor;
 and my soul from out that shadow that lies floating on the floor
 shall be lifted—nevermore!
 =======
 And the Raven, never flitting, still is sitting, still is sitting
-On the pallid bust of Pallas just above my chamber _;
+On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon’s that is dreaming,
 And the lamp-light o’er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
