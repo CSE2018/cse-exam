@@ -1,0 +1,30 @@
+1. Following branches exist: (git brach -r)
+ examorigin/bold-heading
+  examorigin/calc-1
+  examorigin/calc-2
+  examorigin/calc-3
+  examorigin/calc-4
+  examorigin/calc-5
+  examorigin/calc-6
+  examorigin/calculations
+  examorigin/course-description
+  examorigin/css
+  examorigin/dev
+  examorigin/html
+  examorigin/image-styles
+  examorigin/js
+  examorigin/master
+  examorigin/missing-urls
+  examorigin/more-js
+  examorigin/py
+  examorigin/raven
+  examorigin/readme
+  examorigin/translate-1
+  examorigin/translate-10
+  examorigin/translate-2
+
+2. There are 56 commits in total. (git rev-list --all --count)
+
+3. Line 10 was changed by Stepan Bolotnikov at 2018-05-07 19:17:18 +0300 (git blame index.html)
+
+4. The comment is "Added travis config file" (git show 865cbc8)
