@@ -1,0 +1,6 @@
+1. 39 (command: git branch -a | wc -l)
+2. 53 (command: git rev-list --all --count)
+3. Author: Stepan Bolotnikov <stjoopa@gmail.com>
+   Date:   Mon May 7 19:17:18 2018 +0300
+   (command: git log -- index.html)
+4. Added travis config file (command: git show 865cbc8)
