@@ -5,10 +5,16 @@ Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
 <<<<<<< ours
+<<<<<<< ours
 as of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
 ||||||| base
 as of some one gently rapping, rapping at my chamber _.
+||||||| base
+as of some one gently rapping, rapping at my chamber _.
+=======
+As of some one gently rapping, rapping at my chamber _.
+>>>>>>> theirs
 “’Tis some visitor,” I muttered, “tapping at my chamber _—
 =======
 As of some one gently rapping, rapping at my chamber _.
@@ -31,9 +37,15 @@ So that now, to still the beating of my heart, I stood repeating
 some late visitor entreating entrance at my chamber door;—
 ||||||| base
 “’tis some visitor entreating entrance at my chamber _—
+<<<<<<< ours
 some late visitor entreating entrance at my chamber _;—
 =======
 “’tis some visitor entreating entrance at my chamber _—
+Some late visitor entreating entrance at my chamber _;—
+>>>>>>> theirs
+||||||| base
+some late visitor entreating entrance at my chamber _;—
+=======
 Some late visitor entreating entrance at my chamber _;—
 >>>>>>> theirs
 This it is and nothing more.”
@@ -46,9 +58,15 @@ And so faintly you came tapping, tapping at my chamber door,
 that I scarce was sure I heard you”—here I opened wide the door;—
 ||||||| base
 And so faintly you came tapping, tapping at my chamber _,
+<<<<<<< ours
 that I scarce was sure I heard you”—here I opened wide the _;—
 =======
 And so faintly you came tapping, tapping at my chamber _,
+That I scarce was sure I heard you”—here I opened wide the _;—
+>>>>>>> theirs
+||||||| base
+that I scarce was sure I heard you”—here I opened wide the _;—
+=======
 That I scarce was sure I heard you”—here I opened wide the _;—
 >>>>>>> theirs
 Darkness there and nothing more.
@@ -145,12 +163,28 @@ Take thy beak from out my heart, and take thy form from off my door!”
 Quoth the Raven “Nevermore.”
 
 <<<<<<< ours
+<<<<<<< ours
 and the Raven, never flitting, still is sitting, still is sitting
 on the pallid bust of Pallas just above my chamber door;
 and his eyes have all the seeming of a demon’s that is dreaming,
 and the lamp-light o’er him streaming throws his shadow on the floor;
 and my soul from out that shadow that lies floating on the floor
 shall be lifted—nevermore!
+||||||| base
+and the Raven, never flitting, still is sitting, still is sitting
+on the pallid bust of Pallas just above my chamber _;
+and his eyes have all the seeming of a demon’s that is dreaming,
+and the lamp-light o’er him streaming throws his shadow on the floor;
+and my soul from out that shadow that lies floating on the floor
+shall be lifted—nevermore!
+=======
+And the Raven, never flitting, still is sitting, still is sitting
+On the pallid bust of Pallas just above my chamber _;
+And his eyes have all the seeming of a demon’s that is dreaming,
+And the lamp-light o’er him streaming throws his shadow on the floor;
+And my soul from out that shadow that lies floating on the floor
+Shall be lifted—nevermore!
+>>>>>>> theirs
 ||||||| base
 and the Raven, never flitting, still is sitting, still is sitting
 on the pallid bust of Pallas just above my chamber _;
