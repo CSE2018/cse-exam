@@ -1,0 +1,114 @@
+What branches exist in this repository?
+Kokku on 38 branchi (koos minu looduga) 
+$ git branch --all
+* 8_change-body-font
+  master
+  remotes/origin/HEAD -> origin/master
+  remotes/origin/bold-heading
+  remotes/origin/calc-1
+  remotes/origin/calc-2
+  remotes/origin/calc-3
+  remotes/origin/calc-4
+  remotes/origin/calc-5
+  remotes/origin/calc-6
+  remotes/origin/calculations
+  remotes/origin/course-description
+  remotes/origin/css
+  remotes/origin/dev
+  remotes/origin/html
+  remotes/origin/image-styles
+  remotes/origin/js
+  remotes/origin/master
+  remotes/origin/missing-urls
+  remotes/origin/more-js
+  remotes/origin/py
+  remotes/origin/raven
+  remotes/origin/readme
+  remotes/origin/translate-1
+  remotes/origin/translate-10
+  remotes/origin/translate-2
+  remotes/origin/translate-3
+  remotes/origin/translate-4
+  remotes/origin/translate-5
+  remotes/origin/translate-6
+  remotes/origin/translate-7
+  remotes/origin/translate-8
+  remotes/origin/translate-9
+  remotes/origin/translate-colors
+  remotes/origin/translate-directions
+  remotes/origin/travis
+  remotes/origin/urls
+  remotes/origin/wider-section
+
+
+
+How many commits are in this repository (in total; in all branches)?
+53 committi on  kokku
+$ git log --oneline --all
+754435d (origin/missing-urls) Added the missing URLs
+5c86c1f (HEAD -> 8_change-body-font, origin/urls, origin/master, origin/dev, origin/HEAD, master) Added URL queries
+e467aac Added URLs file
+337d895 (origin/more-js) Added some more javascript
+4bee9f3 (origin/image-styles) Added image styles
+3a5c3d4 (origin/course-description) Added description of the course
+f7bb4da (origin/translate-10) Added final translations
+7f2c967 (origin/translate-9) Added some translations
+db39841 (origin/translate-8) Added some traslations
+22d1c43 (origin/translate-7) Added some transations
+e11434f (origin/translate-6) Added some translations
+7c99849 (origin/translate-5) Added some translations
+fc867f3 (origin/translate-4) Translated holes in walls
+e7aa11d (origin/translate-3) Translated computer
+4bb5760 (origin/calc-6) Solved some calculations
+4abd512 (origin/calc-5) Solved some calculations
+2a45c09 Solved some calculations
+7dbff52 (origin/calc-4) Solved some calculations
+29659e6 (origin/calc-3) Solved some calculations
+350b518 (origin/calc-2) Solved some calculations
+3565839 (origin/calc-1) Solved some calculations
+b7caf9a (origin/calculations) Added calculations
+acb1d39 Added calc file
+f630101 Merge branch 'js' into dev
+6a34537 (origin/js) Added js code
+fee4ea8 (origin/translate-2) Added some translations
+cffac10 (origin/translate-1) Added some translations
+60a2299 (origin/bold-heading) Made heading bold
+67a07f3 (origin/wider-section) Made section wider
+6503910 (origin/translate-directions) Added translations for cardinal directions
+d112f65 (origin/translate-colors) Translated colors
+74ccf6d (origin/translations-file) Added translations file
+fdf67fb (origin/py) Merge branch 'travis' into py
+8f0a451 Added python code
+d69a239 (origin/travis) Added travis configuration
+865cbc8 Added travis config file
+65394f8 Added sample python script file
+ed97edc (origin/html) Merge branch 'css' into html
+409fe27 (origin/css) Added landing styles
+74dc2d3 Body now has landing class
+21f24f6 Merge branch 'css' into html
+d8774c4 Linked scripts.js to index.html
+42051b9 Added scripts.js
+6a54e22 Added additional text formatting
+c27bb26 Merge branch 'css' into html
+995e03d Added some default content to index.html
+efcb852 Linked style.css to index.html
+d225d42 Added style.css
+d4e986e Added index.html
+5b38bf4 Merge branch 'readme' into dev
+d2d2ac1 (origin/raven) Added The Raven
+cc55117 (origin/readme) Added readme
+7d696f6 Initial commit
+
+
+When was the line #10 in the file index.html last changed and who is the author of that commit?
+$ git blame index.html
+74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10) <body class="landing">
+
+
+What is the commit message of the commit with the hash 865cbc8?
+$ git log 865cbc8
+commit 865cbc8981d9eaba49d89e40e19ffc3de8babaca
+Author: Stepan Bolotnikov <stjoopa@gmail.com>
+Date:   Mon May 7 19:29:13 2018 +0300
+
+    Added travis config file
