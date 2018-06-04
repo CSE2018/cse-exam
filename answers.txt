@@ -1,0 +1,50 @@
+1. What branches exist in this repository?
+origin/HEAD -> origin/master
+  origin/bold-heading
+  origin/calc-1
+  origin/calc-2
+  origin/calc-3
+  origin/calc-4
+  origin/calc-5
+  origin/calc-6
+  origin/calculations
+  origin/course-description
+  origin/css
+  origin/dev
+  origin/html
+  origin/image-styles
+  origin/js
+  origin/master
+  origin/missing-urls
+  origin/more-js
+  origin/py
+  origin/raven
+  origin/readme
+  origin/translate-1
+  origin/translate-10
+  origin/translate-2
+  origin/translate-3
+  origin/translate-4
+  origin/translate-5
+  origin/translate-6
+  origin/translate-7
+  origin/translate-8
+  origin/translate-9
+  origin/translate-colors
+  origin/translate-directions
+  origin/translations-file
+  origin/travis
+  origin/urls
+  origin/wider-section
+Command:git branch -r
+
+2. How many commits are in this repository (in total; in all branches)?
+In total there are 29 commits in this repo.
+
+3. When was the line #10 in the file index.html last changed and who is the author of that commit? 
+Line #10 was last changed 7th of May, 19:17 by Stepan Bolotnikov.
+Command: $ git log -L10,10:index.html
+
+4. What is the commit message of the commit with the hash 865cbc8?
+Added travis config file.
+Command: $ git show 865cbc8
