@@ -1,2 +1,4 @@
-# Exam in the subject Collaboration Tools in Software Engineering
-Date: June 4th
+# cse-exam
+Eksam
+[![Build Status](https://travis-ci.com/kallejog/cse-exam.svg?branch=master)](https://travis-ci.com/kallejog/cse-exam)
+
