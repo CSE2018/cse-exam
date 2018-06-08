@@ -1,0 +1,2 @@
+1. There are 29 commits in the repository excluding one my own commit. I used command gitk to show all commits across all branches
+2. 
