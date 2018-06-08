@@ -1,0 +1,7 @@
+1. 
+There are 29 commits.
+git shortlog -s -n --all
+There are 58 commits by Stepan and 18 by othersi in all branches. (51 and 12, when excluding merge commits)
+2. git blame index.html
+74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10)
+3. The commit message of 865cbc8 is: Added travis config file
