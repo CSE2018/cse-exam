@@ -1,0 +1,168 @@
+  git branch -r gives me  all branches,  include  remote
+
+1. How many commits are in this repository (in total; in all branches)?
+
+git shortlog -n -s --all
+    58  Stepan Bolotnikov
+     7  Ako
+     7  AndresKKuura
+     1  AkoTonissoo
+     1  FrediArro
+     1  Kristen Kotkas
+     1  karlmeldorf
+
+Answer: in total 76 commits  
+
+Data from Github
+In master - 29 commits
+Easiest way to me know how much  in  each  branch is  to  copy  from Github /branches  when
+I can see how  much  was  before  master and  after
+I made  a copy  from  these: 
+
+
+ revert-49-45_add-sis-url Updated 3 days ago by Stopa   
+0
+23
+#48  Merged  missing-urls Updated a month ago by Stopa  
+ 
+0
+1
+ urls Updated a month ago by Stopa  
+ 
+0
+0
+#43  Open  more-js Updated a month ago by Stopa  
+ 
+2
+1
+#42  Merged  image-styles Updated a month ago by Stopa  
+ 
+2
+1
+#41  Merged  course-description Updated a month ago by Stopa  
+ 
+2
+1
+#32  Open  translate-10 Updated a month ago by Stopa  
+ 
+2
+1
+#31  Open  translate-9 Updated a month ago by Stopa  
+ 
+2
+1
+#30  Open  translate-8 Updated a month ago by Stopa  
+ 
+2
+1
+#29  Open  translate-7 Updated a month ago by Stopa  
+ 
+2
+1
+#28  Open  translate-6 Updated a month ago by Stopa  
+ 
+2
+1
+#27  Open  translate-5 Updated a month ago by Stopa  
+ 
+2
+1
+#26  Open  translate-4 Updated a month ago by Stopa  
+ 
+2
+1
+#25  Open  translate-3 Updated a month ago by Stopa  
+ 
+2
+1
+#23  Closed  calc-6 Updated a month ago by Stopa  
+ 
+2
+1
+#22  Open  calc-5 Updated a month ago by Stopa  
+ 
+2
+1
+#21  Open  calc-4 Updated a month ago by Stopa  
+ 
+3
+1
+#20  Closed  calc-3 Updated a month ago by Stopa  
+ 
+3
+1
+#19  Open  calc-2 Updated a month ago by Stopa  
+ 
+3
+1
+calc-1 Updated a month ago by Stopa  
+ 
+3
+1
+ calculations Updated a month ago by Stopa  
+ 
+3
+0
+ js Updated a month ago by Stopa  
+ 
+17
+0
+#12  Open  translate-2 Updated a month ago by Stopa  
+ 
+7
+1
+#11  Open  translate-1 Updated a month ago by Stopa  
+ 
+7
+1
+#10  Closed  bold-heading Updated a month ago by Stopa  
+ 
+7
+1
+#9  Open  wider-section Updated a month ago by Stopa  
+ 
+7
+1
+#3  Open  translate-directions Updated a month ago by Stopa  
+ 
+7
+1
+#1  Open  translate-colors Updated a month ago by Stopa  
+ 
+7
+1
+ translations-file Updated a month ago by Stopa  
+ 
+7
+0
+ py Updated a month ago by Stopa   
+8
+0
+ travis Updated a month ago by Stopa   
+10
+0
+ html Updated a month ago by Stopa   
+13
+0
+ css Updated a month ago by Stopa   
+18
+0
+ raven Updated a month ago by Stopa   
+27
+0
+ readme Updated a month ago by Stopa   
+27
+0
+
+
+
+
+2. When was the line #10 in the file index.html last changed and who is the author of that commit?
+
+git blame index.html
+Answer:74dc2d36 (Stepan Bolotnikov 2018-05-07 19:17:18 +0300 10) <body class="landing">
+
+3. What is the commit message of the commit with the hash 865cbc8
+
+git  show 865cbc8
+Answer:Added travis config file
