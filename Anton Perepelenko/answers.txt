@@ -1,0 +1,3 @@
+1. There are 29 commits in the repository excluding one my own commit. I used command gitk to show all commits across all branches
+2. Line #10 in file index.html was changed on Mon May 7 19:17:18 2018 +0300 in commit 74dc2d36ac558929972d3e0ee400c206fe8cdad7 authored by Stepan Bolotnikov. I used git log -L 10:index.html to find that.
+3. "Added travis config file". I used gitk to find the requested commit message. Also possible by using git log 865cbc8.
