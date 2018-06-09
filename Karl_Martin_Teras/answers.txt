@@ -1,0 +1,5 @@
+1. Number of commits over all branches is 76.
+
+2. The line 10 in index.html was last changed at 2018-05-07 19:17:18 +0300 and the autor is Stepan Bolotnikov <stjoopa@gmail.com>.
+
+3. The commit message for the commit starting with 865cbc8 is "Added travis config file".
